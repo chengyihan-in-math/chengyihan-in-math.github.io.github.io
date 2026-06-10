@@ -1,5 +1,5 @@
 # Site settings
-title: Hux Blog
+title: ikkan
 SEOTitle: 黄玄的博客 | Hux Blog
 header-img: img/home-bg.jpg
 email: huxpro@gmail.com
@@ -15,7 +15,7 @@ future: true
 RSS: false
 weibo_username: huxpro
 zhihu_username: huxpro
-github_username: huxpro
+github_username: chengyihan-in-math
 twitter_username: huxpro
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
